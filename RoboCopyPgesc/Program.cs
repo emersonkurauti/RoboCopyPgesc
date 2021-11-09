@@ -29,7 +29,7 @@ namespace RoboCopyPgesc
             private FormConfiguracoes _formConfiguracoes;
 
             private Configuracao _configuracao;
-            private bool _emExecucao = false;
+            private bool _emExecucao = true;
             private Timer _timer;
 
             public RoboCopyPgescApplicationContexto()
